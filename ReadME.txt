@@ -75,25 +75,26 @@ https://earthexplorer.usgs.gov/
 
 
 
-3. Data Organization in ZIP/Repo
+3. Data Organization GPK
 •	/Vector_data/
 o	Urban Atlas 2012 with categories
 o	Urban Atlas 2018 with categories
 o	UA2006_CLC with categories
+
 o	Administrative boundaries:
 	Western_Balkans (used for visualization)
 	Tirana Municipality (used for analysis)
 	Europe_Countries_Visualization
+
 •	/Raster_data/
 o	Sentinel (all used years)
 o	Landsat (all used years)
 o	NDVI & NDBI (all years)
+
 •	/MOLUSCE/
 o	MOLUSCE input/output data (for change modeling)
 •	/Documentation/
-o	README (this document)
-o	Metadata and processing notes
-•	/Final_Maps/
+
 o	Maps for final visualization
 •	/Excel_Charts/
 o	Charts showing percent share by land cover class
